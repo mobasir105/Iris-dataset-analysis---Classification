@@ -10,4 +10,4 @@ This Jupyter notebook performs an analysis and classification of the Iris datase
 - Splitting the dataset into training and testing sets.
 - Training a machine learning model for classification.
 
-You can view the notebook [here](https://github.com/mobasir105/Iris-dataset-analysis---Classification/blob/273d63261f5efd4e5db42250b4b449529ea5d07f/Iris%20dataset%20analysis%20-%20Classification.ipynb).
+(https://github.com/mobasir105/Iris-dataset-analysis---Classification/blob/273d63261f5efd4e5db42250b4b449529ea5d07f/Iris%20dataset%20analysis%20-%20Classification.ipynb).
